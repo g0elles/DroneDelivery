@@ -1,0 +1,39 @@
+C:\Users\G_E13\source\repos\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.exe
+C:\Users\G_E13\source\repos\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.deps.json
+C:\Users\G_E13\source\repos\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.runtimeconfig.json
+C:\Users\G_E13\source\repos\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.runtimeconfig.dev.json
+C:\Users\G_E13\source\repos\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.dll
+C:\Users\G_E13\source\repos\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.pdb
+C:\Users\G_E13\source\repos\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.csproj.AssemblyReference.cache
+C:\Users\G_E13\source\repos\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.AssemblyInfoInputs.cache
+C:\Users\G_E13\source\repos\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.AssemblyInfo.cs
+C:\Users\G_E13\source\repos\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.csproj.CoreCompileInputs.cache
+C:\Users\G_E13\source\repos\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.dll
+C:\Users\G_E13\source\repos\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.pdb
+C:\Users\G_E13\source\repos\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.genruntimeconfig.cache
+C:\Users\gabri.elles\Saved Games\Pictures\SUPPORT\PAP CAFAM\c#\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.exe
+C:\Users\gabri.elles\Saved Games\Pictures\SUPPORT\PAP CAFAM\c#\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.deps.json
+C:\Users\gabri.elles\Saved Games\Pictures\SUPPORT\PAP CAFAM\c#\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.runtimeconfig.json
+C:\Users\gabri.elles\Saved Games\Pictures\SUPPORT\PAP CAFAM\c#\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.runtimeconfig.dev.json
+C:\Users\gabri.elles\Saved Games\Pictures\SUPPORT\PAP CAFAM\c#\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.dll
+C:\Users\gabri.elles\Saved Games\Pictures\SUPPORT\PAP CAFAM\c#\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.pdb
+C:\Users\gabri.elles\Saved Games\Pictures\SUPPORT\PAP CAFAM\c#\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.csproj.AssemblyReference.cache
+C:\Users\gabri.elles\Saved Games\Pictures\SUPPORT\PAP CAFAM\c#\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.AssemblyInfoInputs.cache
+C:\Users\gabri.elles\Saved Games\Pictures\SUPPORT\PAP CAFAM\c#\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.AssemblyInfo.cs
+C:\Users\gabri.elles\Saved Games\Pictures\SUPPORT\PAP CAFAM\c#\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.csproj.CoreCompileInputs.cache
+C:\Users\gabri.elles\Saved Games\Pictures\SUPPORT\PAP CAFAM\c#\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.dll
+C:\Users\gabri.elles\Saved Games\Pictures\SUPPORT\PAP CAFAM\c#\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.pdb
+C:\Users\gabri.elles\Saved Games\Pictures\SUPPORT\PAP CAFAM\c#\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.genruntimeconfig.cache
+C:\Users\G_E13\Documents\ANDES\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.exe
+C:\Users\G_E13\Documents\ANDES\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.deps.json
+C:\Users\G_E13\Documents\ANDES\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.runtimeconfig.json
+C:\Users\G_E13\Documents\ANDES\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.runtimeconfig.dev.json
+C:\Users\G_E13\Documents\ANDES\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.dll
+C:\Users\G_E13\Documents\ANDES\DroneDelivery\DroneDelivery\bin\Debug\netcoreapp3.1\DroneDelivery.pdb
+C:\Users\G_E13\Documents\ANDES\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.csproj.AssemblyReference.cache
+C:\Users\G_E13\Documents\ANDES\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.AssemblyInfoInputs.cache
+C:\Users\G_E13\Documents\ANDES\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.AssemblyInfo.cs
+C:\Users\G_E13\Documents\ANDES\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.csproj.CoreCompileInputs.cache
+C:\Users\G_E13\Documents\ANDES\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.dll
+C:\Users\G_E13\Documents\ANDES\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.pdb
+C:\Users\G_E13\Documents\ANDES\DroneDelivery\DroneDelivery\obj\Debug\netcoreapp3.1\DroneDelivery.genruntimeconfig.cache
